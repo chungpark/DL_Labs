@@ -13,5 +13,5 @@ These lecture portion covers the basics of Deep Learning, with a focus on applic
 
 - [Intro to Deep Learning](https://m2dsupsdlclass.github.io/lectures-labs/slides/01_intro_to_deep_learning/index.html)
   
- [//]: <>"- %[Intro to Deep Learning](https://github.com/chungpark/DL_Labs/blob/main/lectures/01_intro_to_deep_learning/index.html)"
+ [Comment]: #"- %[Intro to Deep Learning](https://github.com/chungpark/DL_Labs/blob/main/lectures/01_intro_to_deep_learning/index.html)"
 
